@@ -1,4 +1,4 @@
-# git-fork-clone-practice
+# Git Fork and Clone Practice
 
 Fork this repository to your own GitHub account!
 
